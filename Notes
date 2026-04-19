@@ -1,0 +1,12 @@
+Step 1: To setup the Env 
+    python -m venv venv
+ Step 2: To activate the env 
+    .\venv\Scripts\Activate
+
+Step 3: to run the  jupyter code 
+    pip install ipykernel
+
+Step 4 : Installing packages 
+    python -m pip install numpy
+    python -m pip install pandas
+    python -m pip install playwrightpython -m pip install path_to_project
